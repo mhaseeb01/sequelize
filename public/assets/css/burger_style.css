@@ -1,0 +1,33 @@
+body{
+  background-color: lightgrey;
+}
+
+#burger-container{
+
+}
+#fresh{
+
+}
+#devoured{
+
+}
+#burger-gif{
+  max-width: 50%;
+}
+
+.burger-label{
+  padding: 5px;
+  margin-bottom: -5px;
+}
+.burger-div{
+  background-color: #CCC;
+  margin: 10px;
+  border: solid 1px #555;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 18px;
+}
+.burger-div button{
+  float: right;
+  margin: 5px;
+}
